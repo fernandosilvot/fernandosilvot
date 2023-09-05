@@ -3,15 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ahi85vm74nbb3y46unh7akdyk2ytijd41ukxacpj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="left" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ahi85vm74nbb3y46unh7akdyk2ytijd41ukxacpj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -41,4 +41,4 @@
   </a>
 </div>
 
-
+###
