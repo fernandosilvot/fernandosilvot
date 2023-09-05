@@ -1,73 +1,50 @@
+<h2 align="left">Hi 👋! My name is Fernando Silva T and I'm a Student, from Duoc Uc San Joaquin</h2>
+
+###
+
 <div align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="center">Fernando Silva T</h1>
-<h3 align="center">Estudiante de Duoc UC en Primer Año</h3>
-<h4 align='center'>Ubicación: Santiago, Chile</h4>
-<hr>
-<p align="center">
-    <a href="https://www.linkedin.com/in/fernando-silvo-t/" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://github.com/fernandosilvot" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="GitHub" height="30" width="40" /></a>
-</p>
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=fernandosilvot&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Fernando Silva T" />
-</p>
-<br>
+###
 
-- 🔭 Soy un **estudiante de primer año en Duoc UC**
+<br clear="both">
 
-- 🌱 Actualmente estoy aprendiendo **Java, Python y SQL**
+<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ahi85vm74nbb3y46unh7akdyk2ytijd41ukxacpj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
-- 💬 Puedes preguntarme sobre **cómo resolver problemas informáticos**
+###
 
-- 📫 Cómo contactarme: **a través de LinkedIn**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
 
-- 🌏 Visita mi <a href="https://fernandosilvot.github.io">Portafolio</a>
+###
 
-- 👨‍💻 Todos mis proyectos están disponibles en mi [GitHub](https://github.com/fernandosilvot)
+<div align="center">
+  <a href="linkedin.com/in/fernando-silvo-t/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- ⚡ Dato curioso: **Autodidacta**
+###
 
-<br>
+<br clear="both">
 
-<h2 align="center"><i>Tech Stack</i></h2>
+<img src="https://raw.githubusercontent.com/fernandosilvot/fernandosilvot/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Oracle_SQL_Developer-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="Oracle SQL Developer" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-<p align="center"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvot&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
-<p align="center">
-    <a href="URL_DE_TU_GITHUB"><img title="Estadísticas de racha para tu perfil en git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=fernandosilvot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</p>
-<p align="center">
-    <a href="URL_DE_TU_GITHUB"><img alt="Estadísticas de GitHub de Fernando Silva T"
-            src="https://github-readme-stats.vercel.app/api?username=fernandosilvot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-</p>
-
-<!-- divider -->
-
-<p align="center">
-    <a href="URL_DE_TU_GITHUB"><span>
-            <img align="center"
-                src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandosilvot&theme=github_dark"
-                width="100%" />
-        </span></a>
-</p>
+###
