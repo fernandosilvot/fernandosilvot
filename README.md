@@ -1,39 +1,57 @@
-<h2 align="left">Hi 👋! My name is Fernando Silva T and I'm a Student, from Duoc Uc San Joaquin</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<h1 align="center">Hola, soy <a href="https://fernandosilvot.github.io/">Fernando Silva T</a> 👋</h1>
+</div>
+<img src="https://media.licdn.com/dms/image/D4E22AQHPYbcSGM00Ng/feedshare-shrink_2048_1536/0/1702086695437?e=1707955200&v=beta&t=9Jnd4RKV4Ls7rEmSEsJNcErJ5ftWMp51a3NcRlPk8mI">
+
+
+## Sobre mi
+
+- 🚀 Estudiante de Analista Programador Computacional en Duoc UC
+- 🔍 Activo en la investigación de nuevas tecnologías y tendencias en programación para mantenerte al día en el mundo informático.
+- 🌐 Apasionado por la programación y la tecnología
+- 📚 Actualmente cursando el tercer semestre y con planes de avanzar hacia Ingeniería en Informática en el futuro.
+- 💻 Desarrollo de Aplicaciones y Gestión de Bases de Datos Relacionales
+- 🔗 Interesado en construir soluciones innovadoras y eficientes.
+- 🔍 Habilidad destacada en investigación y análisis
+- 🔧 Siempre explorando nuevos temas a través del aprendizaje autodidacta.
+- ⚡ Hackathon Enthusiast
+- 🏆 Participante en una hackathon de 27 horas en Duoc, fortaleciendo habilidades de trabajo en equipo y resolución de problemas bajo presión.
+- 🛠️ Explorador de Hardware en Tiempo Libre
+- 🔧 Experimentando con hardware para desconectar y recargar energías.
+- 🚀 Persiguiendo el sueño de ser Ingeniero en Informática
+- 🌐 Ampliando horizontes y habilidades en el fascinante mundo de la informática.
+- 🎓 Curso AWS Practitioner: experiencia de cierre del curso en las instalaciones de AWS Santiago
+<br>
+
+## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">WWJS_BotWWJS_Bot</h3>
+<div align="center">
+<a href="https://github.com/fernandosilvot/WWJS_Bot" target="_blank"><img src="https://i.imgur.com/wJblfF4.jpeg" width="400" alt="WWJS_Bot"></a>
+<p>
+<a href="https://github.com/fernandosilvot/WWJS_Bot" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/X4c58ORKK64?si=Gj-zz-dT4qJyZ2t8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Es un chatbot de WhatsApp diseñado para ayudar a solucionar problemáticas de alumnos, especialmente enfocado en preguntas frecuentes.</p>
+</div>
+                                                                                      
+</td>
+
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosilvot&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=fernandosilvot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ahi85vm74nbb3y46unh7akdyk2ytijd41ukxacpj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
-
-###
-
-
-
+</a>
+</p>
