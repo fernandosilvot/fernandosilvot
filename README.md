@@ -9,16 +9,11 @@
 - 🚀 Estudiante de Analista Programador Computacional en Duoc UC
 - 🔍 Activo en la investigación de nuevas tecnologías y tendencias en programación para mantenerte al día en el mundo informático.
 - 🌐 Apasionado por la programación y la tecnología
-- 📚 Actualmente cursando el tercer semestre y con planes de avanzar hacia Ingeniería en Informática en el futuro.
-- 💻 Desarrollo de Aplicaciones y Gestión de Bases de Datos Relacionales
 - 🔗 Interesado en construir soluciones innovadoras y eficientes.
-- 🔍 Habilidad destacada en investigación y análisis
 - 🔧 Siempre explorando nuevos temas a través del aprendizaje autodidacta.
-- ⚡ Hackathon Enthusiast
 - 🏆 Participante en una hackathon de 27 horas en Duoc, fortaleciendo habilidades de trabajo en equipo y resolución de problemas bajo presión.
 - 🛠️ Explorador de Hardware en Tiempo Libre
 - 🔧 Experimentando con hardware para desconectar y recargar energías.
-- 🚀 Persiguiendo el sueño de ser Ingeniero en Informática
 - 🌐 Ampliando horizontes y habilidades en el fascinante mundo de la informática.
 - 🎓 Curso AWS Practitioner: experiencia de cierre del curso en las instalaciones de AWS Santiago
 <br>
