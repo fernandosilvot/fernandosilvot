@@ -12,7 +12,7 @@
 - 🌐 Apasionado por la programación y la tecnología
 - 🔗 Interesado en construir soluciones innovadoras y eficientes.
 - 🔧 Siempre explorando nuevos temas a través del aprendizaje autodidacta.
-- 🏆 Participante en una hackathon de 27 horas en Duoc, fortaleciendo habilidades de trabajo en equipo y resolución de problemas bajo presión.
+- 🏆 Competidor de la hackaton y ganador del 5to lugar
 - 🛠️ Explorador de Hardware en Tiempo Libre
 - 🌐 Ampliando horizontes y habilidades en el fascinante mundo de la informática.
 
