@@ -7,15 +7,15 @@
 ## Sobre mi
 
 - 🚀 Estudiante de Analista Programador Computacional en Duoc UC
+- 🎓 AWS Practitioner
 - 🔍 Activo en la investigación de nuevas tecnologías y tendencias en programación para mantenerte al día en el mundo informático.
 - 🌐 Apasionado por la programación y la tecnología
 - 🔗 Interesado en construir soluciones innovadoras y eficientes.
 - 🔧 Siempre explorando nuevos temas a través del aprendizaje autodidacta.
 - 🏆 Participante en una hackathon de 27 horas en Duoc, fortaleciendo habilidades de trabajo en equipo y resolución de problemas bajo presión.
 - 🛠️ Explorador de Hardware en Tiempo Libre
-- 🔧 Experimentando con hardware para desconectar y recargar energías.
 - 🌐 Ampliando horizontes y habilidades en el fascinante mundo de la informática.
-- 🎓 Curso AWS Practitioner: experiencia de cierre del curso en las instalaciones de AWS Santiago
+
 <br>
 
 ## Proyectos
