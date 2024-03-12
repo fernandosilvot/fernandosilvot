@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://fernandosilvot.github.io/">Fernando Silva T</a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D4E22AQHPYbcSGM00Ng/feedshare-shrink_2048_1536/0/1702086695437?e=1707955200&v=beta&t=9Jnd4RKV4Ls7rEmSEsJNcErJ5ftWMp51a3NcRlPk8mI">
+<img src="https://github.com/fernandosilvot/fernandosilvot.github.io/blob/main/assets/images/aws_final_curso.jpeg">
 
 
 ## Sobre mi
