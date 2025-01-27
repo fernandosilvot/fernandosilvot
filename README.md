@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media.licdn.com/dms/image/v2/D4E22AQEOdjt_H-Gl_A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730330034727?e=1737590400&v=beta&t=ihb61M3mGn3Ln_fjnM2biQLaAnXlf55vyViKtBTyV5Y"  />
+  <img height="500" src="https://github.com/fernandosilvot/fernandosilvot/blob/main/IMG-20241201-WA0007.jpg"  />
 </div>
 
 ###
